@@ -38,11 +38,19 @@ The James Webb Space Telescope (JWST) has revealed a population of compact, red 
 - Repo principale TETcollective: https://github.com/TETcollective/tetcollective.github.io
 - Paper correlato G/Λ emergenti: https://doi.org/10.5281/zenodo.18076960
 
-## License
+## Copyright and Usage Rights
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/).
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ---
 
